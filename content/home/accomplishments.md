@@ -23,30 +23,34 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: 
+    date_end: '2021-08-31'
+    date_start: '2021-05-01'
+    description: Design of intelligent garbage sorting robots for searching, identifying, sorting and grabbing specified garbage over a large area
+    
+    Real-time Object Detection; TensorRT-based Acceleration for Neural Networks
+    organization: 
+    organization_url: 
+    title: The First Prize of the National University Students’Opt-Sci-Tech Competition
+    url: 'http://opt.zju.edu.cn/gdjs/'
+  - certificate_url: 
+    date_end: '2021-08-31'
+    date_start: '2020-09-01'
+    description: Launched by DJI, both participants are required to develop their own robots of different types and functions and compete against each other tactically in the designated competition venue. 
+    
+    ROS-based mapping, localization and autonomous navigation
+    organization: DJI
+    organization_url: https://www.dji.com/
+    title: The Second Prize of the National University Robotics Competition (RoboMaster)
+    url: https://www.robomaster.com/en-US
+  - certificate_url: 
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    date_start: '2022-02-01'
+    description: 'Develop quantitative trading models based on historical price data to achieve long-term profitability for a given portfolio'
+    organization: COMAP – The Consortium for Mathematics and its Applications
+    organization_url: https://www.comap.com/
+    title: The 2022 Mathematical Contest in Modeling
+    url: https://www.comap.com/contests/mcm-icm
 
 design:
   columns: '2'
