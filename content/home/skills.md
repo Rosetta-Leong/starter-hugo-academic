@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 70%
-    icon: brain-circuit
-    icon_pack: far
+    icon: AI
+    icon_pack: custom
     name: AI
   - description: 70%
     icon: python
