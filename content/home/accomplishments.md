@@ -29,8 +29,8 @@ item:
     description: Design of intelligent garbage sorting robots for searching, identifying, sorting and grabbing specified garbage over a large area
     
     Real-time Object Detection; TensorRT-based Acceleration for Neural Networks
-    organization: 
-    organization_url: 
+    organization: ''
+    organization_url: '' 
     title: The First Prize of the National University Students’Opt-Sci-Tech Competition
     url: 'http://opt.zju.edu.cn/gdjs/'
   - certificate_url: 
