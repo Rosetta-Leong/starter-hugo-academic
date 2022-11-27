@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 70
 
 title: Contact
 subtitle:
@@ -37,7 +37,7 @@ content:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  appointment_url: 'https://calendly.com'
+  appointment_url: "https://calendly.com"
   contact_links:
     # - icon: linkedin
     #   icon_pack: fab
@@ -54,7 +54,6 @@ content:
     #   name: Zoom Me
     #   link: 'https://zoom.com'
 
-
 design:
-  columns: '2'
+  columns: "2"
 ---

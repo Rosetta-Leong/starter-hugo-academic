@@ -7,10 +7,10 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 60
 
 title: Projects
-subtitle: ''
+subtitle: ""
 
 content:
   # Page type to display. E.g. project.
@@ -26,15 +26,15 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: All
-      tag: '*'
+      tag: "*"
     - name: Deep Learning
       tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Robotics
+      tag: Robotics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: "1"
 
   # Toggle between the various page layout types.
   #   1 = List
