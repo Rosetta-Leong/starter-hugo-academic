@@ -39,12 +39,12 @@ content:
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: linkedin
-      icon_pack: fab
-      link: https://www.linkedin.com/in/yanzhe-leong-1a703020b/
-    - icon: zhihu
-      icon_pack: fab
-      link: https://www.zhihu.com/people/liang-yan-zhe-21
+    # - icon: linkedin
+    #   icon_pack: fab
+    #   link: https://www.linkedin.com/in/yanzhe-leong-1a703020b/
+    # - icon: zhihu
+    #   icon_pack: fab
+    #   link: https://www.zhihu.com/people/liang-yan-zhe-21
     # - icon: twitter
     #   icon_pack: fab
     #   name: DM Me

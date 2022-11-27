@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: 70%
     icon: brain-circuit
-    icon_pack: fab
+    icon_pack: far
     name: AI
   - description: 70%
     icon: python
