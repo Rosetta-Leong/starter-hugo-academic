@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Education
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Undergraduate
+    company: Huazhong University of Science and Technology
+    company_url: 'http://english.hust.edu.cn/'
+    company_logo: HUST
+    location: Wuhan, China
+    date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * B.Eng. in Electronic Science and Technology, School of Optical and Electronic Information
+        * GPA: 3.93/4.00 (Rank: 3/110);
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Senior High School Student
+    company: The High School Attached to Hunan Normal University
+    company_url: 'https://www.hnsdfz.org/'
+    company_logo: SDFZ
+    location: Changsha, China
+    date_start: '2016-09-01'
+    date_end: '2019-06-30'
+    description: |2-
+        * The First Prize of China High School Biology Olympiad in 2018
+        * The First Prize of China High School Biology Olympiad in 2017
 
 design:
   columns: '2'
