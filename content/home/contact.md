@@ -45,17 +45,14 @@ content:
     - icon: zhihu
       icon_pack: fab
       link: https://www.zhihu.com/people/liang-yan-zhe-21
-    - icon: bilibili
-      icon_pack: fab
-      link: https://space.bilibili.com/357153100?spm_id_from=..0.0
     # - icon: twitter
     #   icon_pack: fab
     #   name: DM Me
     #   link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    # - icon: video
+    #   icon_pack: fas
+    #   name: Zoom Me
+    #   link: 'https://zoom.com'
 
 
 design:
