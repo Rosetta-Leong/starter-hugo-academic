@@ -26,19 +26,15 @@ item:
   - certificate_url: 
     date_end: '2021-08-31'
     date_start: '2021-05-01'
-    description: Design of intelligent garbage sorting robots for searching, identifying, sorting and grabbing specified garbage over a large area
-    
-    Real-time Object Detection; TensorRT-based Acceleration for Neural Networks
-    organization: ''
-    organization_url: '' 
+    description: Design of intelligent garbage sorting robots for searching, identifying, sorting and grabbing specified garbage over a large area.<br>Real-time Object Detection; TensorRT-based Acceleration for Neural Networks
+    organization: 
+    organization_url:  
     title: The First Prize of the National University Students’Opt-Sci-Tech Competition
     url: 'http://opt.zju.edu.cn/gdjs/'
   - certificate_url: 
     date_end: '2021-08-31'
     date_start: '2020-09-01'
-    description: Launched by DJI, both participants are required to develop their own robots of different types and functions and compete against each other tactically in the designated competition venue. 
-    
-    ROS-based mapping, localization and autonomous navigation
+    description: Launched by DJI, both participants are required to develop their own robots of different types and functions and compete against each other tactically in the designated competition venue.<br>ROS-based mapping, localization and autonomous navigation
     organization: DJI
     organization_url: https://www.dji.com/
     title: The Second Prize of the National University Robotics Competition (RoboMaster)
