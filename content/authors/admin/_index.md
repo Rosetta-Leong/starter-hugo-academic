@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Yanzhe Liang (梁彦哲)
+title: Yanzhe Liang-梁彦哲
 
 # Full name (for SEO)
-first_name: Yanzhe 
+first_name: Yanzhe
 last_name: Liang
 
 # Is this the primary user of the site?
@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "/#contact"
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -77,16 +77,15 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'yanzhe_liang@qq.com'
+email: "yanzhe_liang@qq.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a senior undergraduate at Huazhong University of Science and Technology(HUST), majoring in EE. 
+I am a senior undergraduate at Huazhong University of Science and Technology(HUST), majoring in EE.
 My research interests are in artificial intelligence, computer vision and robotics.
 
 Next year, I will pursue a master’s degree in Control Science and Engieering at University of Science and Technology of China (USTC), supervised by Prof.Tianzhu Zhang.
-
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

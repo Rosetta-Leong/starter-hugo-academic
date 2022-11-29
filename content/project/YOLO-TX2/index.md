@@ -4,7 +4,7 @@ summary: The First Prize of the National University Students’Opt-Sci-Tech Comp
 tags:
   - Deep Learning
   - Robotics
-date: "2016-04-27T00:00:00Z"
+date: "2021-08-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

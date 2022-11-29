@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 70%
-    icon: AI
-    icon_pack: custom
-    name: AI
+    icon: fire
+    icon_pack: fas
+    name: Pytorch
   - description: 70%
     icon: python
     icon_pack: fab
