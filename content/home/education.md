@@ -22,16 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postgraduate
+    company: University of Science and Technology of China
+    company_url: 'https://en.ustc.edu.cn/'
+    company_logo: USTC
+    location: Hefei, China
+    date_start: '2023-09-01'
+    date_end: ''
+    description: |2-
+        * School of Information Science and Technology
+        * Supervised by Prof.Tianzhu Zhang 
+
   - title: Undergraduate
     company: Huazhong University of Science and Technology
     company_url: 'http://english.hust.edu.cn/'
     company_logo: HUST
     location: Wuhan, China
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2023-06-30'
     description: |2-
-        * B.Eng. in Electronic Science and Technology, School of Optical and Electronic Information
-        * GPA: 3.93/4.00 (Rank: 3/110);
+        * B.Eng.(Hons) in Electronic Science and Technology, School of Optical and Electronic Information
+        * GPA: 3.93/4.00
 
   - title: Senior High School Student
     company: The High School Attached to Hunan Normal University
